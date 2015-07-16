@@ -1,0 +1,40 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+* {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+hr {
+	border: 0 none;
+	height:4px;
+	background-color: #ccc;
+	color: #333;
+}
+
+h3 {
+	font-size:30px;
+	text-transform: uppercase;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.text-thin {
+	font-weight:100;
+}
+
+.title-super {
+	font-size:60px;
+}
+
+.title-logo {
+	margin-top:28px;
+}
